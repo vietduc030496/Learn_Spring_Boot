@@ -1,0 +1,14 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.vti.demo</groupId>
+  <artifactId>Learn_Spring_Boot</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>Learn_Spring_Boot</name>
+  <description>Learn_Spring_Boot</description>
+  <modules>
+  	<module>spring-boot-hello-world</module>
+  	<module>spring-boot-config-properties</module>
+  	<module>spring-boot-conditional-bean</module>
+  </modules>
+</project>
