@@ -6,9 +6,11 @@ Spring boot examples, every example is simple for newbies
 
 ***
 
-[1 Spring boot hello world](../spring-boot-hello-world)
-[2 Spring boot configuration properties](../spring-boot-config-properties)
-[3 Spring boot configuration condition bean](../spring-boot-conditional-bean)
-[3 Spring boot i18n](../)
-[4 Spring boot web](../)
-[4 Spring boot JPA](../)
+# List Project
+
+[1. Spring boot hello world](../spring-boot-hello-world)
+[2. Spring boot configuration properties](../spring-boot-config-properties)
+[3. Spring boot configuration condition bean](../spring-boot-conditional-bean)
+[3. Spring boot i18n](../)
+[4. Spring boot web](../)
+[5. Spring boot JPA](../)
