@@ -2,7 +2,7 @@
 
 Spring boot examples, every example is simple for newbies
 
-[Spring boot](https://spring.io/projects/spring-boot) | [Spring JPA](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/) | [Spring Security](https://docs.spring.io/spring-security/reference/index.html) | [Spring Cloud](https://spring.io/projects/spring-cloud)
+[Spring boot](https://spring.io/projects/spring-boot) | [Spring JPA](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/) | [Spring Security](https://docs.spring.io/spring-security/reference/index.html) | [Spring Cloud](https://spring.io/projects/spring-cloud) | [Spring AOP](https://www.baeldung.com/spring-aop)
 
 ***
 
@@ -14,3 +14,6 @@ Spring boot examples, every example is simple for newbies
 [4. Spring boot i18n](../)  
 [5. Spring boot web](../)  
 [6. Spring boot JPA](../)
+[7. Spring boot upload file](../)
+[8. Spring boot handle exception](../)
+[10. Spring boot schedule](../)
