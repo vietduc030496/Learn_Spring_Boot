@@ -16,6 +16,6 @@ Spring boot examples, every example is simple for newbies
 [6. Spring boot JPA](../)  
 [7. Spring boot upload file](../)  
 [8. Spring boot handle exception](../)  
-[10. Spring boot schedule](../)
-[11. Spring boot SOAP](../)
+[10. Spring boot schedule](../)  
+[11. Spring boot SOAP](../)  
 [12. Spring boot Actuator](../)
