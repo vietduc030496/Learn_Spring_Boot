@@ -12,5 +12,6 @@
   	<module>spring-boot-conditional-bean</module>
   	<module>spring-boot-i18n</module>
   	<module>spring-boot-web</module>
+  	<module>Spring-boot-JPA</module>
   </modules>
 </project>
