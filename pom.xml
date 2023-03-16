@@ -11,5 +11,6 @@
   	<module>spring-boot-config-properties</module>
   	<module>spring-boot-conditional-bean</module>
   	<module>spring-boot-i18n</module>
+  	<module>spring-boot-web</module>
   </modules>
 </project>
