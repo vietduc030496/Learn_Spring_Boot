@@ -10,5 +10,6 @@
   	<module>spring-boot-hello-world</module>
   	<module>spring-boot-config-properties</module>
   	<module>spring-boot-conditional-bean</module>
+  	<module>spring-boot-i18n</module>
   </modules>
 </project>

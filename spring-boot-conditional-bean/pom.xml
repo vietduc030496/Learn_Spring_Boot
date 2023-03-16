@@ -11,7 +11,7 @@
   <groupId>com.vti.demo</groupId>
   <artifactId>spring-boot-conditional-bean</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>spring-boot-hello-world</name>
+  <name>spring-boot-conditional-bean</name>
   <description>Demo project for Spring Boot</description>
   <properties>
     <java.version>11</java.version>

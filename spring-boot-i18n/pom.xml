@@ -9,9 +9,9 @@
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
   <groupId>com.vti.demo</groupId>
-  <artifactId>spring-boot-config-properties</artifactId>
+  <artifactId>spring-boot-i18n</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>spring-boot-config-properties</name>
+  <name>spring-boot-i18n</name>
   <description>Demo project for Spring Boot</description>
   <properties>
     <java.version>11</java.version>
