@@ -1,4 +1,4 @@
-Run
+Run project and try 2 api in postman
 ```
 GET view/hello
 Content-Type: application/json
