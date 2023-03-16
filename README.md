@@ -11,7 +11,7 @@ Spring boot examples, every example is simple for newbies
 [1. Spring boot hello world](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/spring-boot-hello-world)  
 [2. Spring boot configuration properties](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/spring-boot-config-properties)  
 [3. Spring boot initialization condition bean](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/spring-boot-conditional-bean)  
-[4. Spring boot i18n](../)  
+[4. Spring boot i18n](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/spring-boot-i18n)  
 [5. Spring boot web](../)  
 [6. Spring boot JPA](../)  
 [7. Spring boot upload file](../)  
