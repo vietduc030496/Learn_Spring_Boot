@@ -13,5 +13,6 @@
   	<module>spring-boot-i18n</module>
   	<module>spring-boot-web</module>
   	<module>Spring-boot-JPA</module>
+  	<module>spring-boot-upload-file</module>
   </modules>
 </project>
