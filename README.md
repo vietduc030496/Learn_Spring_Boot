@@ -15,7 +15,7 @@ Spring boot examples, every example is simple for newbies
 [5. Spring boot web](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/spring-boot-web)  
 [6. Spring boot JPA](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/Spring-boot-JPA)  
 [7. Spring boot upload file](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/spring-boot-upload-file)  
-[8. Spring boot handle exception](../)  
+[8. Spring boot handle exception](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/spring-boot-handle-exception/src/main/java/com/vti/demo)  
 [10. Spring boot schedule](../)  
 [11. Spring boot SOAP](../)  
 [12. Spring boot Actuator](../)
