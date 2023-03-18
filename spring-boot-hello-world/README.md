@@ -12,5 +12,5 @@ Content-Type: application/json
 ```
 
 Try this 
-[GET](http://localhost:8090/view/hello)
-[GET](http://localhost:8090/api/hello)
+[GET http://localhost:8090/view/hello](http://localhost:8090/view/hello)  
+[GET http://localhost:8090/api/hello](http://localhost:8090/api/hello)
