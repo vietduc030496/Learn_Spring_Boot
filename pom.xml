@@ -14,5 +14,6 @@
   	<module>spring-boot-web</module>
   	<module>Spring-boot-JPA</module>
   	<module>spring-boot-upload-file</module>
+  	<module>spring-boot-handle-exception</module>
   </modules>
 </project>
