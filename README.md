@@ -10,21 +10,20 @@ Spring boot examples, every example is simple for newbies
 
 ## Spring Boot
 
-[1.   
-[2. Spring boot configuration properties](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/spring-boot-config-properties)  
-[3. Spring boot initialization condition bean](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/spring-boot-conditional-bean)  
-[4. Spring boot i18n](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/spring-boot-i18n)  
-[5. Spring boot web](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/spring-boot-web)  
-[6. Spring boot JPA](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/Spring-boot-JPA)  
-[7. Spring boot upload file](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/spring-boot-upload-file)  
-[8. Spring boot handle exception](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/spring-boot-handle-exception/src/main/java/com/vti/demo)  
-[10. Spring boot schedule](https://github.com/vietduc030496/Learn_Spring_Boot)  
-[11. Spring boot SOAP](../)  
-[12. Spring boot Actuator](../)  
-[13. Spring boot with HATEOAS](../)
-
 | | Project |
 | ---      | ---       |
-| 1        | [Spring boot hello world](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/spring-boot-hello-world)
+| 1        | [Spring boot hello world](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/spring-boot-hello-world)  |
+| 2        | [Spring boot configuration properties](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/spring-boot-config-properties)  |
+| 3        | [Spring boot initialization condition bean](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/spring-boot-conditional-bean)  |
+| 4        | [Spring boot i18n](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/spring-boot-i18n)  |
+| 5        | [Spring boot web](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/spring-boot-web)  |
+| 6        | [Spring boot JPA](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/Spring-boot-JPA)  |
+| 7        | [Spring boot upload file](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/spring-boot-upload-file)  |
+| 8        | [Spring boot handle exception](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/spring-boot-handle-exception  |
+| 9        | [Spring boot schedule](https://github.com/vietduc030496/Learn_Spring_Boot)  |
+| 10       | [Spring boot SOAP](../)  |
+| 11       | [Spring boot Actuator](../)  |
+| 12       | [Spring boot with HATEOAS](../)  |
+
 
 ## Spring Security
