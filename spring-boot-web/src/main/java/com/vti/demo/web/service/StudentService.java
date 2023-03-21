@@ -1,4 +1,4 @@
-package com.vti.demo.service;
+package com.vti.demo.web.service;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -8,7 +8,7 @@ import java.util.Map;
 import org.springframework.lang.NonNull;
 import org.springframework.stereotype.Service;
 
-import com.vti.demo.model.Student;
+import com.vti.demo.web.model.Student;
 
 @Service
 public class StudentService {

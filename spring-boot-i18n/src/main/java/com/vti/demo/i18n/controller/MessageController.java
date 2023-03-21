@@ -1,4 +1,4 @@
-package com.vti.demo.controller;
+package com.vti.demo.i18n.controller;
 
 import java.util.Locale;
 
@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.vti.demo.utils.I18nUtils;
+import com.vti.demo.i18n.utils.I18nUtils;
 
 import lombok.NonNull;
 

@@ -1,10 +1,10 @@
-package com.vti.demo.utils;
+package com.vti.demo.i18n.utils;
 
 import java.util.Locale;
 
 import org.springframework.context.MessageSource;
 
-import com.vti.demo.config.BeanConfiguration;
+import com.vti.demo.i18n.config.BeanConfiguration;
 
 public class I18nUtils {
 

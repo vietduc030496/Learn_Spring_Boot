@@ -1,4 +1,4 @@
-package com.vti.demo.config;
+package com.vti.demo.i18n.config;
 
 import java.util.Locale;
 
@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.support.ReloadableResourceBundleMessageSource;
 import org.springframework.web.servlet.i18n.AcceptHeaderLocaleResolver;
 
-import com.vti.demo.utils.I18nUtils;
+import com.vti.demo.i18n.utils.I18nUtils;
 
 @Configuration
 public class BeanConfiguration {

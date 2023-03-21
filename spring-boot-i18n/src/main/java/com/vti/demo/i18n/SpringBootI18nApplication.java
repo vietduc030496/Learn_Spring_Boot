@@ -1,4 +1,4 @@
-package com.vti.demo;
+package com.vti.demo.i18n;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

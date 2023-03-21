@@ -1,4 +1,4 @@
-package com.vti.demo.controller;
+package com.vti.demo.web.controller;
 
 import java.util.List;
 
@@ -13,8 +13,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.vti.demo.model.Student;
-import com.vti.demo.service.StudentService;
+import com.vti.demo.web.model.Student;
+import com.vti.demo.web.service.StudentService;
 
 @RestController
 @RequestMapping("/api/students")

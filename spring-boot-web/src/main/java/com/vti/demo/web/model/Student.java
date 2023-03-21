@@ -1,4 +1,4 @@
-package com.vti.demo.model;
+package com.vti.demo.web.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
