@@ -20,6 +20,8 @@ Spring boot examples, every example is simple for newbies
 [8. Spring boot handle exception](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/spring-boot-handle-exception/src/main/java/com/vti/demo)  
 [10. Spring boot schedule](https://github.com/vietduc030496/Learn_Spring_Boot)  
 [11. Spring boot SOAP](../)  
-[12. Spring boot Actuator](../)
+[12. Spring boot Actuator](../)  
+[13. Spring boot with HATEOAS](../)
+
 
 ## Spring Security
