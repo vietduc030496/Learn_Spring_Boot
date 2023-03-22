@@ -17,5 +17,6 @@
   	<module>spring-boot-handle-exception</module>
   	<module>spring-boot-schedule</module>
   	<module>spring_boot_SOAP</module>
+  	<module>spring_boot_actuator</module>
   </modules>
 </project>
