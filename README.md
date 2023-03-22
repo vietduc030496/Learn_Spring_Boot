@@ -22,8 +22,13 @@ Spring boot examples, every example is simple for newbies
 | 8        | [Spring boot handle exception](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/spring-boot-handle-exception)  |
 | 9        | [Spring boot schedule](https://github.com/vietduc030496/Learn_Spring_Boot)  |
 | 10       | [Spring boot SOAP](../)  |
-| 11       | [Spring boot Actuator](../)  |
+| 11       | [Spring boot Actuator](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/spring_boot_actuator)  |
 | 12       | [Spring boot with HATEOAS](../)  |
 
 
 ## Spring Security
+
+***
+# Link Reference
+
+[Spring Frameword Guru](https://springframework.guru/)
