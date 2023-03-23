@@ -28,6 +28,12 @@ Spring boot examples, every example is simple for newbies
 
 ## Spring Security
 
+| | Project |
+| ---      | ---       |
+| 1        | [Spring security JWT](../)  |
+| 2        | [Spring security OTP](../)  |
+| 3        | [Spring security SSO](../)  |
+
 ***
 # Link Reference
 
