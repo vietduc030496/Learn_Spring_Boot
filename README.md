@@ -24,6 +24,8 @@ Spring boot examples, every example is simple for newbies
 | 10       | [Spring boot SOAP](../)  |
 | 11       | [Spring boot Actuator](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/spring_boot_actuator)  |
 | 12       | [Spring boot with HATEOAS](../)  |
+| 13       | [Spring boot with Redis](../)  |
+| 14       | [Spring boot with Elasticsearch](../)  |
 
 
 ## Spring Security
@@ -33,6 +35,8 @@ Spring boot examples, every example is simple for newbies
 | 1        | [Spring security JWT](../)  |
 | 2        | [Spring security OTP](../)  |
 | 3        | [Spring security SSO](../)  |
+
+## Spring Cloud
 
 ***
 # Link Reference
