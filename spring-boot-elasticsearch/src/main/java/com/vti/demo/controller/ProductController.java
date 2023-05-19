@@ -21,7 +21,7 @@ public class ProductController {
     @Autowired
     private ProductService productService;
 
-    @GetMapping("/findAll")
+    @GetMapping("/find-all")
     public Iterable<Product> getAll() {
         return productService.getProducts();
     }
