@@ -25,7 +25,7 @@ Spring boot examples, every example is simple for newbies
 | 11       | [Spring boot Actuator](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/spring_boot_actuator)  |
 | 12       | [Spring boot with HATEOAS](../)  |
 | 13       | [Spring boot with Redis](../)  |
-| 14       | [Spring boot with Elasticsearch](../)  |
+| 14       | [Spring boot with Elasticsearch](https://github.com/vietduc030496/Learn_Spring_Boot/tree/master/spring-boot-elasticsearch)  |
 
 
 ## Spring Security
